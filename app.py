@@ -82,5 +82,5 @@ if st.sidebar.button('Predecir Calidad del Vino'):
 st.sidebar.markdown("---")
 st.sidebar.link_button(
     "Conoce el Proyecto Completo",
-    "TU_ENLACE_A_LA_WEB"
+    "https://31victor45.github.io/Wine_Quality_Random_Forest/"
 )
